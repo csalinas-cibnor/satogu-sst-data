@@ -1,1 +1,1 @@
-{"start_utc": "2025-08-27", "end_utc": "2025-09-01", "lag_days": 1, "num_days": 5, "umbral_c": 25.0, "generated_at_utc": "2025-09-02T17:41:30Z", "source_files": ["02092025-jplMURSST41_4c6e_ad40_2e79.csv", "31082025-jplMURSST41_4595_c0ee_6cbb.csv"]}
+{"start_utc": "2025-08-30", "end_utc": "2025-09-03", "lag_days": 1, "num_days": 5, "umbral_c": 25.0, "generated_at_utc": "2025-09-04T20:22:50Z", "source_files": ["04092025-jplMURSST41_c83e_6e0c_907c.csv"]}
