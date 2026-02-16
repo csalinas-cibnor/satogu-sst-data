@@ -1,1 +1,1 @@
-{"start_utc": "2026-01-29", "end_utc": "2026-02-02", "lag_days": 1, "num_days": 5, "umbral_c": 25.0, "generated_at_utc": "2026-02-03T18:50:49Z", "source_files": ["03022026-jplMURSST41_6ba3_3755_c2c4.csv"]}
+{"start_utc": "2026-02-10", "end_utc": "2026-02-15", "lag_days": 1, "num_days": 5, "umbral_c": 25.0, "generated_at_utc": "2026-02-16T17:36:08Z", "source_files": ["15022026-jplMURSST41_c6eb_df40_2b84.csv"]}
